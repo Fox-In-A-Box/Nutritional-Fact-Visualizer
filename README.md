@@ -1,4 +1,4 @@
-# Diet App
+# Nutrition App
 ## Demo
 
 <img src="https://user-images.githubusercontent.com/65001385/152006003-67368b3e-06ad-412f-a13d-6ff0bc56a376.gif" width="800"/>
